@@ -11,3 +11,8 @@ To mint 1 FedCash, a user must deposit $1 in value, split between stablecoin col
 For example, if the reserve ratio is 75%, 1 FedCash required $0.75 stablecoin and $0.25 FedShare.
 
 The reserve ratio is decreased by 0.5% if FedCash is trading above $1 every 8 hours. The reserve ratio is increased by 0.5% if FedCash is trading below $1 every 8 hours.
+
+FedCash: https://etherscan.io/address/0x5069CBd92C6EF2a2d09Cb8b89F5c325af5B29fc8#code
+FedShare: https://etherscan.io/address/0x8Cbb6e8B914476890788283bfcfcd67746e69993#code
+TimeLock: TBD
+GovernorAlpha: TBD
